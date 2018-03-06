@@ -1,7 +1,7 @@
 <?php $title = 'Contact // Moova Pro'; ?>
 
 <div class="visible-md-block visible-lg-block" style="padding-top: 20vh" id="calle_desktop"></div>
-<div class="visible-xs-block" style="padding-top: 20vh"></div>
+<div class="visible-xs-block" style="padding-top: 50vh"></div>
 
 <div class="container">
 	<div class="row">
